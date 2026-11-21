@@ -2,7 +2,7 @@
 
 ## Joshua Lum
 
-**Builder · MComp @ NUS**
+**Builder · MComp @ NUS · ex-TikTok**
 
 [Email](mailto:josh.lum@u.nus.edu) · [LinkedIn](https://www.linkedin.com/in/joshualumzy/) · [Website](https://joshualumzy.github.io)
 
