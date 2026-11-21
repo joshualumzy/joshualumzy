@@ -12,7 +12,7 @@
 
 **Projects**
 
-[NeuroLens](https://github.com/kelvinlowhm86/neurolens) — predicts the brain's second-by-second response to video, with a 3D brain and an AI report ([live samples](https://joshualumzy.github.io/neurolens-samples/))
+[NeuroLens](https://github.com/kelvinlowhm86/neurolens) — predicts the brain's second-by-second response to video, with a 3D brain and an AI report ([live samples](https://joshualumzy.github.io/neurolens-samples/)) · 🏆 **Best Project (Platinum), CS5224 track @ 29th NUS STEPS**
 
 **Side quests**
 
